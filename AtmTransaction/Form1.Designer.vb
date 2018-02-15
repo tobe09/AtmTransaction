@@ -23,12 +23,12 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.PanelMain = New System.Windows.Forms.Panel()
-        Me.btnReset = New System.Windows.Forms.Button()
         Me.PanelResult = New System.Windows.Forms.Panel()
         Me.lblRemAvailBal = New System.Windows.Forms.Label()
         Me.lblWithDepBalSide = New System.Windows.Forms.Label()
         Me.lblWithDepAmount = New System.Windows.Forms.Label()
         Me.lblWithDepSide = New System.Windows.Forms.Label()
+        Me.btnReset = New System.Windows.Forms.Button()
         Me.PanelBalance = New System.Windows.Forms.Panel()
         Me.lblAvailBal = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -66,15 +66,6 @@ Partial Class Form1
         Me.PanelMain.Name = "PanelMain"
         Me.PanelMain.Size = New System.Drawing.Size(480, 384)
         Me.PanelMain.TabIndex = 0
-        '
-        'btnReset
-        '
-        Me.btnReset.Location = New System.Drawing.Point(378, 354)
-        Me.btnReset.Name = "btnReset"
-        Me.btnReset.Size = New System.Drawing.Size(75, 23)
-        Me.btnReset.TabIndex = 9
-        Me.btnReset.Text = "Reset"
-        Me.btnReset.UseVisualStyleBackColor = True
         '
         'PanelResult
         '
@@ -127,6 +118,15 @@ Partial Class Form1
         Me.lblWithDepSide.Size = New System.Drawing.Size(144, 18)
         Me.lblWithDepSide.TabIndex = 0
         Me.lblWithDepSide.Text = "Amount With/Dep "
+        '
+        'btnReset
+        '
+        Me.btnReset.Location = New System.Drawing.Point(378, 354)
+        Me.btnReset.Name = "btnReset"
+        Me.btnReset.Size = New System.Drawing.Size(75, 23)
+        Me.btnReset.TabIndex = 9
+        Me.btnReset.Text = "Reset"
+        Me.btnReset.UseVisualStyleBackColor = True
         '
         'PanelBalance
         '
@@ -183,7 +183,7 @@ Partial Class Form1
         '
         'btnExecuteMain
         '
-        Me.btnExecuteMain.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnExecuteMain.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnExecuteMain.Location = New System.Drawing.Point(192, 93)
         Me.btnExecuteMain.Name = "btnExecuteMain"
         Me.btnExecuteMain.Size = New System.Drawing.Size(97, 35)
@@ -288,6 +288,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(504, 399)
         Me.Controls.Add(Me.PanelMain)
         Me.MaximizeBox = False

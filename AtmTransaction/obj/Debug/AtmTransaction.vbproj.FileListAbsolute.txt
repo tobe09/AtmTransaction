@@ -9,3 +9,14 @@ c:\users\neptunedev1\documents\visual studio 2015\Projects\AtmTransaction\AtmTra
 c:\users\neptunedev1\documents\visual studio 2015\Projects\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.exe
 c:\users\neptunedev1\documents\visual studio 2015\Projects\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.xml
 c:\users\neptunedev1\documents\visual studio 2015\Projects\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.exe.config
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.exe
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.exe
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\bin\Debug\AtmTransaction.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.vbprojResolveAssemblyReference.cache
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.Form1.resources
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.Resources.resources
+C:\Users\NeptuneDev1\Documents\Visual Studio 2013\Projects\Git\AtmTransaction\AtmTransaction\obj\Debug\AtmTransaction.vbproj.GenerateResource.Cache
